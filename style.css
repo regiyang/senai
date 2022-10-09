@@ -1,0 +1,105 @@
+.links{
+text-align: center;
+
+}
+
+
+.banner{
+   text-align: center;
+   background-color: #ffffff;
+}
+
+
+.menu{
+   display: flex;
+    
+   justify-content: space-around;
+   align-items: center;
+   list-style: none;
+   
+   
+}
+
+li:hover{
+   background-color: #D9A384;
+   color: rgb(255, 255, 255);
+   
+}
+
+
+li{
+   padding:20px;
+   background-color: #ffffff;
+   border: solid 1px pink;
+   border-radius:50px;
+   justify-content: space-around;
+   
+   
+}
+
+body{
+   background-color:pink;
+   width: 900px;
+   margin-left: 199px;
+   
+}
+
+h1, h2{
+ text-align: center;
+ color:#594347;
+ background-color: rgb(253, 223, 223);
+}
+
+a{
+   text-decoration: none;
+}
+
+a:visited{
+   color: #890059;
+}
+
+.linhas{
+   color: #594347;
+   font-size: larger;
+}
+
+.pele1{
+float: left;
+padding-right: 20px;
+
+}
+
+.textseca{
+   font-size: medium;
+   
+}
+
+.rodape{
+   justify-content: center;
+}
+
+.pele2{
+   float: right;
+   padding-left: 20px;
+}
+
+.textoleosa{
+   font-size: medium;
+   margin-bottom: 50px;
+}
+
+.imgmista{
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.textmista{
+   font-size: larger;
+}
+
+
+h1{
+   margin-top: 10px;
+}
